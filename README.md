@@ -1,2 +1,5 @@
 # OnlineResources
-Some onlineresources, which I find useful
+
+## Qt
+
+ - [QSS-Stock: Stylesheets for Qt ](https://qss-stock.devsecstudio.com/)
